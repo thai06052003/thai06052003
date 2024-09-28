@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @thai06052003
-- 👀 I’m interested in  front-end
-- 🌱 I’m currently learning công nghệ thông tin
-- 💞️ I’m looking to collaborate on về front-end
-- 📫 How to reach me zalo:0837702366
-đang học tập tại Huế
-Tìm kiếm công việc part-time, thực tập sinh tại : huế và đà nẵngkhu
-thai06052003/thai06052003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  link facabook: https://www.facebook.com/profile.php?id=100015547606524
+- 👋 Xin chào, tôi là @thai06052003
+- 👀 Tôi quan tâm đến back-end
+- 🌱 Tôi hiện đang sinh sống và học tập tại Huế chuyên ngành công nghệ phần mềm
+- 💞️ Tôi đang muốn cộng tác về nhà phát triển PHP
+- 📫 Bạn có thể liên hệ với tôi thông qua sđt/zalo: 0852834966
+- Hiện tại tôi đang học tập tại Huế và mong muốn tìm kiếm công việc thực tập tại Huế hoặc Đà Nẵng
+- Bạn có thể liên hệ với tôi thông qua các trang mạng xã hội:<br>
+<br>---> link facebook: https://www.facebook.com/thai.2k3.com.vn
+<br>---> link instagram: https://www.instagram.com/xuanthai2k3
