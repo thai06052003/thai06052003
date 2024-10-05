@@ -7,3 +7,4 @@
 - Bạn có thể liên hệ với tôi thông qua các trang mạng xã hội:<br>
 <br>---> link facebook: https://www.facebook.com/thai.2k3.com.vn
 <br>---> link instagram: https://www.instagram.com/xuanthai2k3
+<br>---> link CV: https://topcv.vn/xem-cv/BVcOBFNRDwUDBFUHDQYJB1cBWFVRVAJQAAUEAg7feb
