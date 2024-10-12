@@ -8,4 +8,4 @@
 <br>---> Link facebook: https://www.facebook.com/thai.2k3.com.vn
 <br>---> Link instagram: https://www.instagram.com/xuanthai2k3
 <br>---> Link CV: https://topcv.vn/xem-cv/BVcOBFNRDwUDBFUHDQYJB1cBWFVRVAJQAAUEAg7feb
-<br>--->Link linkedIn: https://www.linkedin.com/in/xuan-thai-2k3/
+<br>---> Link linkedIn: https://www.linkedin.com/in/xuan-thai-2k3/
