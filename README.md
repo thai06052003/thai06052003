@@ -16,15 +16,15 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td><a href="https://www.facebook.com/thai.2k3.com.vn">Facebook</a></td>
+      <td><a target="_blank" href="https://www.facebook.com/thai.2k3.com.vn">Facebook</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td><a href="https://www.instagram.com/xuanthai2k3">Instagram</a></td>
+      <td><a target="_blank" href="https://www.instagram.com/xuanthai2k3">Instagram</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td><a href="https://www.linkedin.com/in/xuan-thai-2k3">LinkedIn</a></td>
+      <td><a target="_blank" href="https://www.linkedin.com/in/xuan-thai-2k3">LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
