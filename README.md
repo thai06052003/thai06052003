@@ -16,7 +16,7 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td><a target="_blank" href="https://www.facebook.com/thai.2k3.com.vn">Facebook</a></td>
+      <td><a href="https://www.facebook.com/thai.2k3.com.vn" target="_blank">Facebook</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
