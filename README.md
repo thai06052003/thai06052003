@@ -9,3 +9,19 @@
 <br>---> Link instagram: https://www.instagram.com/xuanthai2k3
 <br>---> Link CV: https://topcv.vn/xem-cv/BVcOBFNRDwUDBFUHDQYJB1cBWFVRVAJQAAUEAg7feb
 <br>---> Link linkedIn: https://www.linkedin.com/in/xuan-thai-2k3/
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Account</th>
+      <th scope="col">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2</th>
+      <td>Facebook</td>
+      <td>https://www.facebook.com/thai.2k3.com.vn</td>
+    </tr>
+  </tbody>
+</table>
