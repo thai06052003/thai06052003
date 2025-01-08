@@ -1,8 +1,8 @@
-- 👋 Xin chào, tôi là @thai06052003
+- 👋 Xin chào, tôi là Thái sở thích của tôi là 🏸🏸🏸
 - 👀 Tôi quan tâm đến back-end
-- 💞️ Tôi đang muốn cộng tác về nhà phát triển PHP và ASP.NET
+- 💞️ Tôi đang muốn tìm hiểu về PHP và ASP.NET
 - 🌱 Tôi hiện đang sinh sống và học tập tại Huế chuyên ngành công nghệ phần mềm
-- 📫 Bạn có thể liên hệ với tôi thông qua sđt/zalo: 0852834966
+- 📫 Bạn có thể liên hệ với tôi thông qua: https://www.facebook.com/thai.2k3.com.vn
 - Hiện tại tôi đang học tập tại Huế và mong muốn tìm kiếm công việc thực tập tại Huế hoặc Đà Nẵng
 - Bạn có thể liên hệ với tôi thông qua các trang mạng xã hội:
 <br>---> Link CV: https://topcv.vn/xem-cv/BVcOBFNRDwUDBFUHDQYJB1cBWFVRVAJQAAUEAg7feb
