@@ -5,7 +5,7 @@
 - 📫 Bạn có thể liên hệ với tôi thông qua: https://www.facebook.com/thai.2k3.com.vn
 - Hiện tại tôi đang học tập tại Huế và mong muốn tìm kiếm công việc thực tập tại Huế hoặc Đà Nẵng
 - Bạn có thể liên hệ với tôi thông qua các trang mạng xã hội:
-<br>---> Link CV (Update: 03/06/2025): <a href="https://www.topcv.vn/xem-cv/BgYBVV9QBwQKUQYKVF0HBwQBBwcEVABXVQMBBA01c6" target="_blank">CV Dinh Xuan Thai</a>
+<br>---> Link CV (Update: 03/06/2025): <a href="https://www.topcv.vn/xem-cv/CgdVBFVeDwICUQIDUlNWCAMGBQxRAwEEVAVSUQ3a2e" target="_blank">CV Dinh Xuan Thai</a>
 <table class="table">
   <thead>
     <tr>
