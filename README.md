@@ -4,7 +4,7 @@
 </h2> 
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80" alt="Banner showing code on a laptop" width="100%" />
+  <img src="/photo-1498050108023-c5249f4df085.avif" alt="Banner showing code on a laptop" width="100%" />
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DINH+XUAN+THAI;Fullstack+Developer;I+build+things;I+solve+all+problems" alt="Typing introduction" />
   </p>
