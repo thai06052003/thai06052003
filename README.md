@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80" alt="Banner showing code on a laptop" width="100%" />
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dinh+Xuan+Th%C3%A1i;Fullstack+Developer;I+build+things;I+solve+problems" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DINH+XUAN+THAI;Fullstack+Developer;I+build+things;I+solve+all+problems" alt="Typing introduction" />
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=thai06052003&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitor counter badge" />
@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="45%">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
-      <p><strong>Based in:</strong> 🇻🇳 Viet Nam</p>
+      <p><strong>Working at:</strong> 🇻🇳 Viet Nam</p>
       <p><strong>Currently exploring:</strong> Currently under research: Real-time models, DevOps, and cloud engineering.</p>
     </td>
   </tr>
