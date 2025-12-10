@@ -1,12 +1,23 @@
+<h2 align="left">
+  Hi 👋! My name is Xuan Thai, I'm a Full-stack Developer 
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2> 
+
 <div align="center">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80" alt="Banner showing code on a laptop" width="100%" />
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dinh+Xuan+Th%C3%A1i;Fullstack+Developer;I+build+things;I+solve+problems" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DINH+XUAN+THAI;Fullstack+Developer;I+build+things;I+solve+all+problems" alt="Typing introduction" />
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=thai06052003&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitor counter badge" />
   </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,vue,nuxtjs,react,angular,mysql,postgres,mongodb,redis,docker,bootstrap,tailwind,elasticsearch,rabbitmq,postman,git,prisma,pinia,vite&theme=dark&perline=11" />
+    </a>
+  </p>
 </div>
+
 
 ## About Me
 <table>
@@ -21,9 +32,9 @@
       </ul>
     </td>
     <td align="center" width="45%">
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding animation" width="320" />
-      <p><strong>Based in:</strong> 🇻🇳 Viet Nam</p>
-      <p><strong>Currently exploring:</strong> Cloud-native patterns & automation</p>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
+      <p><strong>Working at:</strong> 🇻🇳 Viet Nam</p>
+      <p><strong>Currently exploring:</strong> Currently under research: Real-time models, DevOps, and cloud engineering.</p>
     </td>
   </tr>
 </table>
@@ -38,7 +49,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       </p>
       <h4>Backend</h4>
@@ -54,6 +65,10 @@
       <h4>Database</h4>
       <p>
         <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
       </p>
       <h4>Tools & DevOps</h4>
       <p>
@@ -69,18 +84,15 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thai06052003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=thai06052003&theme=radical&hide_border=true" alt="GitHub streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai06052003&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thai06052003&theme=radical" alt="Profile Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thai06052003&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thai06052003&theme=radical" alt="Most commit language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thai06052003&theme=radical" alt="Stats" />
 </div>
 
-## Fun Animations
-<div align="center">
-  <img src="https://github.com/thai06052003/thai06052003/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <p><em>Snake animation will appear once the GitHub Action is configured.</em></p>
-</div>
-
-## Connect with Me
+## Let's get connected:
 <div align="center">
   <a href="https://www.linkedin.com/in/xuan-thai-2k3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -94,5 +106,9 @@
 </div>
 
 <div align="center">
-  <p>Thank you for stopping by — let's build something impactful together!</p>
+  <img src="https://media1.tenor.com/m/TsXvKa70cCUAAAAd/bugcat-capoo.gif" height="250" />
+</div>
+
+<div align="center">
+  <p>✨Thank you for visiting — please contact me if you have a position that would be a good fit for me ✨</p>
 </div>
