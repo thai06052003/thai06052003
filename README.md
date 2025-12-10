@@ -84,12 +84,9 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thai06052003&theme=radical" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thai06052003&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thai06052003&theme=radical" alt="Most commit language" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thai06052003&theme=radical" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/thai06052003/thai06052003/master/profile-summary-card-output/radical/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/thai06052003/thai06052003/master/profile-summary-card-output/radical/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/thai06052003/thai06052003/master/profile-summary-card-output/radical/2-most-commit-language.svg" width="32.5%">
 </div>
 
 ## Let's get connected:
